@@ -1,6 +1,6 @@
 # Rezi Palifta Nadaredo
 
-IT Inventory Staff · Computer Science Graduate (Cum Laude, GPA 3.80) · Building Angular Frontend Skills · Data & ERP Systems
+IT Inventory Staff · Computer Science Graduate (GPA 3.80) · Building Angular Frontend Skills · Data & ERP Systems
 
 📍 Semarang, Indonesia · 💼 PT Jumpwin Sports Indonesia
 
