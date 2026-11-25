@@ -49,8 +49,5 @@ IT Inventory Staff · Computer Science Graduate (GPA 3.80) · Building Angular F
 ---
 
 **IT Inventory** · **Data & ERP Systems** · **Now Building Angular Frontend Skills**
-Supabase
-Ne5tly240401!
-ZeeRp240401!
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0fc29,50:1a1b4b,100:0d1117&height=80&section=footer)
